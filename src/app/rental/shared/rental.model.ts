@@ -3,7 +3,7 @@ export class Rental {
   title: string;
   city: string;
   street: string;
-  catogory: string;
+  category: string;
   image: string;
   bedrooms: number;
   description: string;
